@@ -21,3 +21,6 @@ This command must have created folders and files with the structure defined in t
 <br>
 
 @2024, Insper. 9° Semestre, Computer Engineering.
+<br>
+
+_Machine Learning Ops & Interviews Discipline_
